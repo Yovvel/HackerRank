@@ -1,6 +1,12 @@
 # HackerRank
 My solutions for the HackerRank challenges
 
+
+## 30 days of code in Python 3
+|Challenge|Date|Solution|
+|---|---|---|
+|[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)|06/02/20|[hello.py](https://github.com/Yovvel/HackerRank/blob/master/30%20days%20of%20Code/python3/hello.py)|
+
 ## Problem solutions in C
 |Domain|Difficulty|Challenge|solution|
 ---|---|---|---
