@@ -8,7 +8,7 @@ My solutions for the HackerRank challenges
 |Playing With Characters|Easy|[challenge](https://www.hackerrank.com/challenges/playing-with-characters/problem)|[Solution](C/Introduction/playingWithCharacters.c)|
 |Sum and Difference of Two Numbers|Easy|[challenge](https://www.hackerrank.com/challenges/sum-numbers-c/problem)|[Solution](C/Introduction/sumAndDifference.c)|
 
-C/Introduction/sumAndDifference.c
+
 <!-- template
 |Domain|Easy|[challenge](https://www.hackerrank.com/challenges/playing-with-characters/problem)|[Solution](C/Introduction/playingWithCharacters.c)|
 -->
