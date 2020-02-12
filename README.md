@@ -15,9 +15,4 @@ My solutions for the HackerRank challenges
 |Introduction|Easy|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)|[Solution](C/Introduction/sumAndDifference.c)|
 |Introduction|Easy|[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)|[Solution](C/Introduction/functionsInC.c)|
 |Conditionals and Loops|Easy|[Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)|[Solution](C/Conditionals%20and%20Loops/conditionalStatements.c)|
-
-
-<!-- template
-|Domain|Easy|[challenge](https://www.hackerrank.com/challenges/playing-with-characters/problem)|[Solution](C/Introduction/playingWithCharacters.c)|
--->
-
+|Conditionals and Loops|Easy|[For loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)|[Solution](C/Conditionals%20and%20Loops/forLoop.c)|
