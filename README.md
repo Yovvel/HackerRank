@@ -16,3 +16,6 @@ My solutions for the HackerRank challenges
 |Introduction|Easy|[Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)|[Solution](C/Introduction/functionsInC.c)|
 |Conditionals and Loops|Easy|[Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)|[Solution](C/Conditionals%20and%20Loops/conditionalStatements.c)|
 |Conditionals and Loops|Easy|[For loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)|[Solution](C/Conditionals%20and%20Loops/forLoop.c)|
+|Conditionals and Loops|Easy|[Sum of a five digitnumber in C](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?h_r=next-challenge&h_v=zen)|[Solution](C/Conditionals%20and%20Loops/sumOfAFiveDigitnumber.c)|
+
+
